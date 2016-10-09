@@ -173,7 +173,3 @@ void showMatrix(Matrix mt)
 		printf("]\n");
 	}
 }
-
-
-
-
